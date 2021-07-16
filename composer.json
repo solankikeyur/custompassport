@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\CustomPassport\\": "laravel/custompassport/src/"
+            "Laravel\\CustomPassport\\": "custompassport/src/"
         }
     },
     "minimum-stability" : "dev"
